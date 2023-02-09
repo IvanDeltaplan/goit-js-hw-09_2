@@ -1,0 +1,21 @@
+.button {
+    font-size: 40px;
+    color: white;
+    border-radius: 15px;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .stop{
+    
+    background-color: rgb(219, 77, 77);
+
+
+  }
+  
+
+
+  .button.start {
+    background-color: rgb(77, 219, 82);
+  }
